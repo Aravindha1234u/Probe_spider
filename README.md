@@ -76,5 +76,5 @@ python3 main.py
 Recon_Spider is licensed under GNU General Public License v3.0. Take a look at the [License](https://github.com/Aravindha1234u/Recon_Spider/blob/master/LICENSE)
 
 ## Special Thanks 
-[Adithyan AK](https://github.com/adithyan-ak)
+[Adithyan AK](https://github.com/adithyan-ak)  
 [Gowtham G](https://github.com/Gowtham-18)
