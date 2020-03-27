@@ -1,6 +1,7 @@
 *.BIN
 *.mmdb
 *.pyc
+info/**
 src/GeoLite2-City.mmdb
 src/IP2PROXY-IP-PROXYTYPE-COUNTRY-REGION-CITY-ISP-DOMAIN-USAGETYPE-ASN-LASTSEEN.BIN
 src/api.py
