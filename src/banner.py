@@ -11,5 +11,5 @@ def banner():
     print("/_/ |_|\___/\___/\____/_/ /_/   /____/ .___/_/\__,_/\___/_/     ")
     print("                                    /_/                         "+W)
     print("                        Created By:                             ")
-    print("                 T3cH_W1z4rD & No0b_T3cH1e                      ")
-    print("      techwizard128@gmail.com noobtechie126@gmail.com           ")
+    print("                        T3cH_W1z4rD                             ")
+    print("                  techwizard128@gmail.com                       ")
