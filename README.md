@@ -61,7 +61,7 @@ python3 -m pip install -r requirements.txt
 ```
 
 ### Execution  :+1:
-**Before Executing do your our own api keys to src/api.py file for full version of the tool**  
+**Before Executing, Change api keys in file src/api.py file for full version of the tool**  
 To Run Recon_Spider
 ```
 python3 main.py
