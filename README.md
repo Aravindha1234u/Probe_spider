@@ -13,7 +13,6 @@
 * Mac Address finder of manufacturer
 * IP2Proxy checks whether provided ip uses any kind of Proxy/VPN if any then check for DNSLeaks
 * Torrent Download History
-* Currently Beta Version
 * Tool is currently available only in Command Line Interface (CLI)
 
 ![Tool UI](https://drive.google.com/uc?export=view&id=12pJcN7J20XfzdY16sMKs0ddSaja5-lMn)
