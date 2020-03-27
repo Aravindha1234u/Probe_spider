@@ -2,7 +2,7 @@
   This is a Open Source Intelligence Tool made complete out of Python.
   
 ## Overview of the tool:
-* Tool is currently available only in Command Line Interface (CLI)
+
 * Tool has module involved to scrape social media account details from Instagram, Facebook and Twitter
 * It can find details about Phone number
 * Email data Breach
@@ -13,6 +13,8 @@
 * Mac Address finder of manufacturer
 * IP2Proxy checks whether provided ip uses any kind of Proxy/VPN if any then check for DNSLeaks
 * Torrent Download History
+* Currently Beta Version
+* Tool is currently available only in Command Line Interface (CLI)
 
 ![Tool UI](https://drive.google.com/uc?export=view&id=12pJcN7J20XfzdY16sMKs0ddSaja5-lMn)
 
