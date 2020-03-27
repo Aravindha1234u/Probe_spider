@@ -1,6 +1,7 @@
 *.BIN
 *.mmdb
 *.pyc
+*.jpg
 info/**
 src/GeoLite2-City.mmdb
 src/IP2PROXY-IP-PROXYTYPE-COUNTRY-REGION-CITY-ISP-DOMAIN-USAGETYPE-ASN-LASTSEEN.BIN
@@ -11,3 +12,10 @@ __pycache__/**
 webosint/__pycache__/**
 webosint/who/__pycache__/**
 webvuln/__pycache__/**
+config
+description
+image.jpg
+psg.jpg
+objects/**
+refs/**
+
