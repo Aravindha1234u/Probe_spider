@@ -31,6 +31,9 @@ def ip2Proxy():
             print(C+"ASN:" +W+ record['asn'])
             print(C+"Name:" +W+ record['as_name'])
             api_key = ipstack()
+            if api_key == "":
+                print("Add you ipstack api key to src/api.py")
+                exit()
             r = requests.get("http://api.IPstack.com/" + IP + "?access_key=" + api_key)
             response = r.json()
             print(C+"Latitude :"+W+" {latitude}".format(**response))

@@ -4,7 +4,6 @@ from src.api import ipstack
 import webbrowser
 import re
 from src.api import gmap
-api_key = ipstack()
 from ipaddress import *
 from webosint.who.whois import *
 
@@ -12,6 +11,11 @@ R = '\033[31m' # red
 G = '\033[32m' # green
 C = '\033[36m' # cyan
 W = '\033[0m'  # white
+
+api_key = ipstack()
+if api_key == "":
+    print("Add you ipstack api key to src/api.py")
+    exit()
 
 def IPHeatmap():
     print(C+'''Choose

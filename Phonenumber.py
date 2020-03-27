@@ -11,6 +11,9 @@ def Phonenumber():
     print ( W + '[+]' + G + ' Fetching Phonenumber Details...' + '\n')
     ph=int(input(C+"\nroot@osint:"+W+"~/Phonenumber:Enter the Phonenumber (Eg:919451237895) :"))
     api_key=phoneapis()
+    if api_key == "":
+        print("Add you phoneapis api key to src/api.py")
+        exit()
     url = ("http://apilayer.net/api/validate?access_key="+api_key+"&number="+str(ph))
     response=requests.get(url)
     if "91" not in str(ph):
