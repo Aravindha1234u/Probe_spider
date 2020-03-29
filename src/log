@@ -14,13 +14,13 @@
 [01m[38;5;44m 	[0m
 [01m[31m[!] [0mNot running latest h8mail version. [Current: 2.4.1 | Latest: 2.5]
 [01m[32m[>] [0mTargets:
-aravindha1234u@gmail.com [0m
+test@gmail.com [0m
 [01m[94m[~] [0m[37mRemoving duplicates[0m
-[01m[94m[~] [0m[37mTarget factory started for aravindha1234u@gmail.com[0m
+[01m[94m[~] [0m[37mTarget factory started for test@gmail.com[0m
 
 [01m __________________________________________________________________________________________
  [0m
-[01m[32m[>] [0mShowing results for aravindha1234u@gmail.com[0m
+[01m[32m[>] [0mShowing results for test@gmail.com[0m
 
 [01m[94m[~] [0m[37mNo results founds[0m
 __________________________________________________________________________________________
@@ -33,9 +33,9 @@ ________________________________________________________________________________
                  Target                  |                   Status                  [0m
 __________________________________________________________________________________________
 
-        aravindha1234u@gmail.com         |  [37m             Not Compromised              [0m
+             test@gmail.com              |  [37m             Not Compromised              [0m
 __________________________________________________________________________________________
 
-Execution time (seconds):  [96m 2.186133623123169 [0m 
+Execution time (seconds):  [96m 3.238361358642578 [0m 
 
 [01m[32m[>] [0mWriting to CSV
