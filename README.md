@@ -1,6 +1,16 @@
-# Recon_Spider  :mag:
-  This is a Open Source Intelligence Tool made complete out of Python.
-  
+<H1 align="center">Recon_Spider</h1><br>
+<p align="center">
+  <img src="https://img.shields.io/badge/build-passed-brightgreen" alt="build status">
+  <img src="https://img.shields.io/badge/analyze-passed-rightgreen" alt="Analyze">
+  <img src="https://img.shields.io/badge/tests-477%20passed%2C%202%20failed-red" alt="version">
+  <img src="https://img.shields.io/badge/coverage-75%25-green" alt="Coverage"></br>
+  <img src="https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen" alt="Test">
+  <img src="https://img.shields.io/badge/python-v3.7-blue" alt="Python V3.7">
+  <img src="https://img.shields.io/badge/license-MIT-green" alt="License">
+  <img src="https://img.shields.io/badge/Status-up-brightgreen" alt="status-up">
+</p>
+This is a Open Source Intelligence Tool made complete out of Python.<br>
+
 ## Overview of the tool:
 
 * Tool has module involved to scrape social media account details from Instagram, Facebook and Twitter
@@ -78,3 +88,14 @@ Recon_Spider is licensed under GNU General Public License v3.0. Take a look at t
 ## Special Thanks 
 [Adithyan AK](https://github.com/adithyan-ak)  
 [Gowtham G](https://github.com/Gowtham-18)
+
+### Issues
+Feel free to express any kind of bug or error in this tool and create a issues, So that it can be fixed soon.
+[Issue](https://github.com/Aravindha1234u/Recon_Spider/issues
+
+
+# Some Screenshot of Tool
+
+<img src="https://drive.google.com/uc?export=view&id=1ShK23Wp78pbz2VXt_E3LEHCipjcHSPzd" height="400" width="400" />  <img src="https://drive.google.com/uc?export=view&id=1BSZaFn95XMyVVtLio1lLPvvwX0pSsJGm" height="400" width="400" />  
+<img src="https://drive.google.com/uc?export=view&id=1qjdoQzwwSn2yB-Ycn0mhYPKz9Ai-whgK" height="400" width="400" />  <img src="https://drive.google.com/uc?export=view&id=1wBX-yyxPT7IzzU52UOHuxq7fv68wrXve" height="400" width="400" />
+<img src="https://drive.google.com/uc?export=view&id=14hx0GuYI23lztYv0uoRkUEcdsIWjSDtX" height="400" width="400" />
