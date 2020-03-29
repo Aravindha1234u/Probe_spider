@@ -90,8 +90,8 @@ Recon_Spider is licensed under GNU General Public License v3.0. Take a look at t
 [Gowtham G](https://github.com/Gowtham-18)
 
 ### Issues
-Feel free to express any kind of bug or error in this tool and create a issues, So that it can be fixed soon.
-[Issue](https://github.com/Aravindha1234u/Recon_Spider/issues
+Feel free to express any kind of bug or error in this tool and create a issues, So that it can be fixed soon.<br>
+<a href="https://github.com/Aravindha1234u/Recon_Spider/issues"><img src="https://img.shields.io/badge/issues-33-yellow" /></a>
 
 
 # Some Screenshot of Tool
