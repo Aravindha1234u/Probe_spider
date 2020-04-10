@@ -10,9 +10,13 @@
   <img src="https://img.shields.io/badge/Status-up-brightgreen" alt="status-up">
 </p>
 This is a Open Source Intelligence Tool made complete out of Python.<br>
+<br><br>
 
-**Thia tool has been fixed with issues and released a update here**
+**This tool has been fixed with issues and released a update here**
+
 ## [Recon Spider](https://github.com/bhavsec/reconspider)
+
+<br><br>
 
 ## Overview of the tool:
 
