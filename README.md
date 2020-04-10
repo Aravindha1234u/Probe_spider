@@ -11,6 +11,9 @@
 </p>
 This is a Open Source Intelligence Tool made complete out of Python.<br>
 
+**Thia tool has been fixed with issues and released a update here**
+## [Recon Spider](https://github.com/bhavsec/reconspider)
+
 ## Overview of the tool:
 
 * Tool has module involved to scrape social media account details from Instagram, Facebook and Twitter
